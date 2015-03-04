@@ -17,10 +17,4 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 
-    <style name="styleName" parent="?android:attr/buttonStyleSmall">
-        <item name="android:background">#C70085</item>
-        <item name="android:layout_marginTop">88dp</item>
-        <item name="android:minWidth">150dp</item>
-        <item name="android:textSize">20sp</item>
-    </style>
 </resources>

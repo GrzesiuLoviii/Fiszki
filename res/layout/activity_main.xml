@@ -7,6 +7,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#1F1F1F"
+    android:textColor="@android:color/white"
     tools:context="com.example.fiszki.MainActivity" >
 
     <Button
@@ -20,7 +22,7 @@
         android:background="#C70085"
         android:onClick="GoToUstawenia"
         android:text="Ustawienia"
-        android:minWidth="150dp"
+        android:minWidth="100dp"
         android:textSize="20sp" />
 
     <Button
@@ -43,27 +45,27 @@
         android:layout_alignLeft="@+id/button1"
         android:layout_centerVertical="true"
         android:background="#C70085"
-        android:height="70dp"
+        android:height="50dp"
         android:onClick="GoToPokolei"
         android:text="PO KOLEI"
         android:textColorHint="@android:color/white"
         android:textColorLink="@android:color/white"
-        android:textSize="30sp" />
+        android:textSize="27sp" />
 
     <Button
         android:id="@+id/button1"
         android:layout_width="fill_parent"
-        android:layout_height="70dp"
+        android:layout_height="50dp"
         android:layout_above="@+id/Button1"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="59dp"
         android:background="#C70085"
-        android:height="70dp"
+        android:height="50dp"
         android:onClick="GoToFiszki"
         android:text="LOSOWANIE"
         android:textColor="@android:color/white"
         android:textColorHint="@android:color/holo_blue_dark"
-        android:textSize="30sp"
+        android:textSize="27sp"
         android:width="300dp" />
 
 </RelativeLayout>
