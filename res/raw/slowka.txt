@@ -1,0 +1,1138 @@
+antique shop
+sklep z antykami
+baker's
+piekarnia
+bakery
+piekarnia
+bookshop
+księgarnia
+boutique
+butik
+butcher's
+sklep mięsny
+chain store
+sklep należący do sieci handlowej
+charity shop
+sklep z uzyw. na cele dobroczynne
+chemist's
+apteka
+pharmacy
+apteka
+clothes shop
+sklep odzieżowy
+delicatessen
+delikatesy
+department store
+dom towarowy
+DIY store
+sklep budowlany
+fashion boutique
+butik z modnymi ubraniami
+fishmonger's
+sklep rybny
+florist's
+kwiaciarnia
+flower shop
+kwiaciarnia
+furniture shop
+sklep meblowy
+garden center
+sklep ogrodniczy
+greengrocer's
+warzywniak
+fruit and veg shop
+warzywniak
+hardware shop
+sklep z art. metalowymi
+health food shop
+sklep ze zdrową zywnością
+High Street
+główna ulica handlowa
+independent shop
+sklep nienależący do sieci handl.
+jeweller's
+jubiler
+market
+rynek, targ
+farmer's market
+targ z rolikami
+music shop
+sklep muzyczny
+newsagent's
+kiosk z gazetami
+off-licence
+sklep z alkoholem
+pet shop
+sklep z art. dla zwierząt
+retail park
+centrum handl. za miastem
+second-hand shop
+sklep z używanymi rzeczami
+shoe shop
+obuwniczy
+shopping center
+centrum handlowe
+sports shop
+sklep sportowy
+stationer's
+sklep papierniczy
+supermarket
+supermarket
+toy shop
+sklep z zabawkami
+aisle
+alejka(miedzy regałami)
+baby changing facilities
+pokój matki z dzieckiem
+bar code
+kod kreskowy
+basket
+koszyk
+brand-new
+nowiutki, fabrycznie nowy
+cheap
+tani
+checkout assistant
+kasjer
+cashier
+kasjer
+checkout
+kasa w sklepie
+till
+kasa w sklepie
+choice
+wybór
+convenience food
+gotowe potrawy
+conyeyor belt
+taśma przy kasie
+counter
+lada, kontuar
+customer
+klient
+department
+dział
+entrance
+wejście
+escalator
+schody ruchome
+expensive
+drogi
+food hall
+dział spożywczy
+for sale
+na sprzedaż
+frozen foods section
+dział mrożonek
+level
+poziom
+lift
+winda
+meeting point
+miejsce spotkań
+on sale
+w sprzedaży
+pet food
+karma dla zwierząt
+price tag
+metka z ceną
+queue
+kolejka
+range of products
+gama produktów
+second-hand
+używany
+self-service checkout
+kasa samoobsługowa
+shelf
+półka
+shop assistant
+sprzedawca
+shopaholic
+zakupocholik
+shopper
+osoba robiąca zakupy
+shopping bag
+torba na zakupy
+shopping list
+lista zakupów
+stall
+stragan
+tinned food
+konserwy
+toiltries
+artykuły higieniczne
+toilets
+toalety
+trolley
+wózek na zakupy
+underground car park
+parking podziemny
+purchase
+zakupić,nabyć
+queue (up)
+stać w kolejce.
+Can I help you?
+Czym mogę służyć?
+pick a product off a shelf
+wybrać produkt z półki sklep.
+shop online
+kupować przez internet
+stand in line
+stać w kolejce..
+changing room
+przymierzalnia.
+fitting room
+przymierzalnia..
+designer clothes
+markowe ubrania
+fashion
+moda
+fashion accessories
+modne dodatki
+fashion label
+marka ubrań, producent mod. ubr.
+the latest fashions
+najnowsza moda
+fashionable
+modny
+label
+metka
+designer label
+znana marka ubrań
+last year's model
+model z ubiegłego roku
+men's wear
+moda męska
+outfit
+strój
+size
+rozmiar
+the right size
+odpowiedni rozmiar
+too loose
+za luźny
+too small
+za mały
+too tight
+za ciasny
+trendy
+modny, na topie
+women's wear
+moda damska
+fit
+pasować(pod wzgl. rozmiaru)
+gift-wrap
+zapakować prezent
+match
+pasować(pod wzgl. koloru,wzoru)
+suit
+pasować(do osoby, stylu)
+go round the shops
+chodzić po sklepach
+go shopping
+iść na zakupy
+I'm size 38
+Noszę rozmiar 38
+look for sth
+szukać czegoś
+shop for clothes
+kupować ubrania
+try sth on
+przymierzać coś
+50 per cent discount/off
+50% zniżki
+bargain
+okazja,produkt w niskiej cenie
+deal
+okazja, dobry interes
+great reductions
+znaczne obniżki cen
+price
+cena
+fair price
+uczciwa cena
+half price
+za pół ceny
+low price
+niska cena
+sale
+wyprzedaż
+special offer
+oferta specjalna
+on special offer
+w ofercie specjalnej
+be reduced from 100 pounds to 50 pounds
+być przecenionym ze 100 na 50 funtów
+buy sth at a discount
+kupić coś ze zniżką
+buy sth in a sale
+kupić coś na wyprzedaży
+buy two, get one free
+jeśli kupisz dwa,jeden dostaniesz gratis
+beauty salon
+salon piękności
+car wash
+myjnia samochodowa
+daycare centre for children
+przedszkole,żłobek, miej. opiek. nad. dzieć.
+dry cleaner's
+pralnia chemiczna
+eatery
+knajpka, mała restauracja
+food court
+miesjce w cen. handl. gdzie są resta.
+garage
+warsztat samochodowy
+hairdresser's
+fryzjer
+in-store cafe'
+kawiarnia w sklepie
+launderette
+pralnia samoobsługowa
+laundry
+pralnia
+multi-screen cinema
+multipleks
+petrol station
+stacja benzynowa
+photograher's
+fotograf
+post office
+poczta
+service station
+stacja obsługi pojazdów
+services
+usługi
+shoe repairs
+naprawa obuwia
+account number
+numer konta
+bank
+bank
+branch of a bank
+oddział banku
+bank account
+konto bankowe
+exchange rate
+kurs wymiany walut
+insurance
+ubezpieczenie
+interest rate
+stopa procentowa
+borrow money
+pożyczać pieniądze (od kogoś)
+change money 
+wymienić pieniądze 
+get into dept
+popaść w długi 
+invest in stocks and shares
+inwestować w akcje 
+lend money 
+pożyczać pieniądze(komuś)
+open an account
+otwierać konto
+pay off a loan 
+spłacać pożyczkę
+put money in a bank 
+wpłacić pieniądze na konto bankowe
+take out a loan 
+wziąć pożyczkę 
+take out money 
+wypłacić pieniądze 
+transfer money
+przelewać pieniądze 
+ATM(automatic teller machine)/ cash machine/cashpoint
+bankomat
+bank transfer
+przelew bankowy
+banknote/note 
+banknot
+cash
+gotówka
+change 
+reszta, drobne 
+cheque
+czek 
+coin 
+moneta
+credit card
+karta kredytowa
+debit card
+karta debetowa
+haggle
+targować się 
+pay  
+płacić
+accept/take credit cards
+honorować karty kredytowe 
+be broke 
+być spłukanym 
+cost a bomb
+kosztować fortunę 
+enter your PIN
+wprowadzić numer PIN
+get money out of a cash machine 
+wypłacić pieniądze z bankomatu 
+not have enough cash on oneself
+nie mieć przy sobie wystarczającej ilości gotówki 
+pay by bank transfer
+płacić przelewem
+pay by cheque
+płacić czekiem
+pay by credit card 
+płacić kartą
+pay in cash 
+płacić gotówką
+save money 
+oszczędzać gotówkę
+spend a fortune/money on sth
+wydać fortunę/pieniądze na coś 
+broken 
+zepsuty
+chipped
+wyszczerbiony
+complaint
+reklamacja
+cracked
+pęknięty 
+dissatisfied
+niezadowolony
+faulty 
+wadliwy, mający usterki
+past the sell-by date
+po dacie przydatności/ przeterminowany 
+receipt 
+paragon
+replacement
+produkt na wymianę
+return 
+zwrot
+rip-off
+zdzierstwo, złodziejstwo
+scratched
+porysowany
+stain
+plama
+torn
+rozdarty
+exchange/replace
+wymienić
+work 
+działać
+get a refund/get your money back
+zwrot pieniędzy 
+give refunds
+zwracać pieniądze
+keep crashing
+ciągle się zawieszać, psuć
+make a complaint
+złożyć reklamację 
+return/take sth back 
+zwrócić/ oddać coś do sklepu 
+talk to the manager
+porozmawiać z kierownikiem sklepu 
+ad/advert/advertisement
+reklama
+advertising campaign
+kampania reklamowa   
+billboard/ hoarding
+billboard
+brand/make
+marka
+brand name
+nazwa handlowa
+brochure 
+broszura reklamowa 
+classified ad 
+ogłoszenie drobne
+commercial 
+reklama telewizyjna/radiowa 
+jingle 
+melodyjka reklamowa,dżingiel
+leaflet
+ulotka reklamowa
+logo 
+logo 
+peer pressure
+presja grupy rówieśniczej 
+poster 
+plakat 
+slogan 
+hasło reklamowe 
+advertise 
+reklamować
+attract the crowds
+przyciągać tłumy 
+place an advertisement
+zamieścić ogłoszenie
+consumer 
+konsument 
+consumer society
+społeczeństwo konsumpcyjne 
+consumerism
+konsumpcjonizm
+consumption
+konsumpcja
+free market 
+wolny rynek 
+goods 
+towary 
+product 
+produkt
+profit 
+zysk 
+protectionism
+protekcjonizm
+trade 
+handel
+bicycle
+rower.
+bike
+rower..
+boat
+łódź
+bus
+autobus
+coach
+autokar
+double decker bus
+autobus piętrowy
+ferry
+prom
+lorry
+ciężarówka.
+truck
+ciężarówka..
+means of transport
+środek transportu
+minibus
+mikrobus
+motorbike
+motocykl.
+motorcycle
+motocykl..
+plane
+samolot
+taxi
+taksówka.
+cab
+taksówka..
+train
+pociąg
+underground
+metro.
+subway
+metro..
+van
+furgonetka
+yacht
+jacht
+arrival
+przylot, przybycie
+backpack
+plecak.
+rucksack
+plecak..
+baggage
+bagaż.
+luggage
+bagaż..
+bussines trip
+podróż służbowa, delegacje
+cancellation
+odwołanie(np. samolotu)
+commuter
+osoba która codziennie dojeżdża do pracy
+delay
+opóźnienie
+departure
+odlot, odjazd
+destination
+docelowy pkt podróży
+expedition
+ekspedycja
+explorer
+badacz, podróżnik
+excursion
+wycieczka
+fare
+opłata za przejazd, cena biletu
+journey
+podróż.
+trip
+podróż..
+left luggage office
+przechowalnia bagażu
+luggage trolley
+wózek bagażowy
+on board
+na pokładzie
+pass
+bilet upow. do wieloktrotnego przejazdu
+passenger
+pasażer
+suitcase
+walizka
+ticket
+bilet
+first class ticket
+bilet pierwszej klasy
+monthly ticket
+bilet miesięczny
+return ticket
+bilet powrotny
+second class ticket
+bilet drugiej klasy
+single ticket
+bilet w jedną stronę
+ticket office
+kasa biletowa
+timetable
+rozkład jazdy.
+schedule
+rozkład jazdy..
+travelling companion
+towarzysz podróży
+urban transport
+komunikacja miejska
+accelerate
+przyspieszać
+arrive
+przylatywać, przybywać
+board
+wchodzić na pokład
+book
+rezerwować
+brake
+hamować
+catch
+złapać, zdążyć na
+change
+przesiadać sie
+commute
+dojeżdżać do pracy
+depart
+odlatywać, odjeżdżać
+drive
+prowadzić samochód
+fine
+ukarać mandatem
+hitchhike
+podróżować autostopem
+land
+lądować
+miss
+spóźnić się na
+overtake
+wyprzedać
+sail
+płynąć, żaglować
+steer
+kierować, sterować
+travel
+podróżować, jechać
+arrive at a station
+przybyć na stację
+arrive in New York
+przybyć do Nowego Jorku
+ask the way
+zapytać o drogę
+be on one's way
+być w drodze
+be/get stuck in a traffic jam
+utknąć w korku
+board a ferry
+wchodzić na pokład promu
+board a plane
+wchodzić na pokład samolotu
+board a ship
+wchodzić na pokład statku
+board a board
+wchodzić na pokład łodzi
+book a flight
+rezerwować lot
+book a room
+rezerwować pokój
+book a seat
+rezerwować miejsce
+book a ticket
+rezerwować bilet
+book online
+rezerwować przez internet
+break down
+popsuć się(w pojeździe)
+catch a bus
+złapać autobus
+catch a flight
+złapać lot
+change gears
+zmieniać biegi
+check in
+przejść odprawę biletowo-bagażową
+cross a continent
+przeprawić się przez kontynent
+depart from
+odjeżdżać, odlatywać z
+fasten one's seat belts
+zapiąć pasy bezpieczeństwa
+fill up (the tank)
+napełnić (bak)
+find one's way
+odnaleźć drogę
+get into a car
+wsiąść do samochodu
+get into a taxi
+wsiąść do taksówki
+get lost
+zgubić się
+get off a bus
+wysiadać z autobusu
+get off a train
+wysiadać z pociągu
+get on a bus
+wsiąść do autobusu
+get on a train
+wsiąść do pociągu
+get out of a car
+wysiadać z samochodu
+get out of a taxi
+wysiadać z taksówki
+give sb a lift
+podwieźć kogoś
+give way
+ustąpić pierwszeństwa
+go by bus
+pojechać autobusem
+go by car
+pojechać samochodem
+go by train
+pojechać pociągiem
+go fast
+jechać szybko
+go on foot
+pójść piechotą.
+go on walk
+pójść piechotą..
+Have a safe journey!
+Bezpiecznej drogi!.
+Have a safe trip!
+Bezpiecznej drogi!..
+have priority
+mieć pierwszeństwo
+make a reservation
+zrobić rezerwację
+meet sb at the airport
+wyjść po kogoś na lotnisko
+miss one's flight
+spóźnić się na samolot.
+miss one's plane
+spóźnić się na samolot..
+reach the speed of 200 km per hour
+osiągać prędkość 200km/h
+run out of petrol
+nie mieć już benzyny
+see sb off
+odprowadzać kogoś
+set off
+wyruszać.
+set out
+wyruszać..
+show sb the way
+wskazywać komuś drogę
+start a car
+uruchomić samochód
+take a plane
+polecieć samolotem
+take a train
+pojechać pociągiem
+take off
+startować(o samolocie)
+travel by air
+podróżować samolotem.
+tavel by plane
+podróżować samolotem..
+travel by bus
+podróżować autobusem
+travel by rail
+podróżować koleją.
+travel by train
+podróżować koleją..
+travel by road
+podróżować samochodem
+travel by sea
+podróżować statkiem.
+travel by boat
+podróżować statkiem..
+compartment
+przedział
+dining car
+wagon restauracyjny
+monorail
+kolej jednoszynowa
+platform
+peron
+rail travel
+podróżować koleją...
+railway
+kolej.
+railroad
+kolej..
+railway company
+spółka kolejowa.
+railroad company
+spółka kolejowa..
+railway station
+stacja kolejowa.
+railroad station
+stacja kolejowa..
+sleeping car
+wagon sypialny
+train
+pociąg
+direct train
+pociąg bezpośredni
+express train
+pociąg ekspresowy
+fast train
+pociąg pospieszny
+passenger train
+pociąg pasażerski
+sleeper train
+pociąg z wagonami sypialnymi
+cabin
+kabina, kajuta
+cruise
+rejs wycieczkowy
+harbour
+port.
+port
+port..
+lifeboat
+łódź ratunkowa
+liner
+statek dalekomorski, liniowec
+sea travel
+podróż morska
+voyage
+długi rejs
+air travel
+podróżowanie samolotem
+airline
+linia lotnicza
+budget airline
+tania linia lotnicza
+airport
+lotnisko
+baggage reclaim
+odbiór bagażu
+belt
+taśma z której odbieramy bagaż
+boarding card
+karta pokładowa.
+boarding pass
+karta pokładowa..
+cabin crew
+personel pokładowy
+check-in desk
+stanowisko odprawy biletowo-bagaż
+departure lounge
+poczekalnia dla odlatujących
+duty-free zone
+strefa bezcłowa
+flight
+lot
+charter flight
+rejs czarterowy
+flight attendant
+steward/stewardesa
+gate
+wyjście prowadzące do samolotu
+hand luggage
+bagaż podręczny.
+hand baggage
+bagaż podręczny..
+runway
+pas startowy
+security
+kontrola bezpieczeństwa.
+security check
+kontrola bezpieczeństwa..
+security screening
+kontrola bezpieczeństwa...
+terminal
+terminal
+bonnet
+maska samochodu
+boot
+bagażnik
+brakes
+hamulce
+bumper
+zdarzak
+crossroads
+skrzyżowanie.
+junction
+skrzyżowanie..
+cycle lane
+pas dla rowerzystów.
+bike lane
+pas dla rowerzystów..
+cycle path
+ścieżka rowerowa.
+bike path
+ścieżka rowerowa..
+fine
+mandat.
+ticket
+mandat..
+flat tyre
+przebita opona.
+puncture
+przebita opona..
+headlight
+reflektor(w samochodzie)
+mirror
+lusterko
+wing mirror
+lusterko boczne
+motorway
+autostrada.
+highway
+autostrada..
+number plate
+tablica rejestracyjna
+pavement
+chodnik
+pedestrian
+pieszy
+petrol station
+stacja benzynowa
+red light
+czerwone światło
+right of way
+pierszeństwo przejazdu
+road
+droga, jezdnia, ulica
+main road
+główna ulica
+minor road
+boczna droga
+road sign
+znak drogowy
+road travel
+podróż samochodem...
+roundabout
+rondo
+seat
+siedzenie
+speed limit
+ograniczenie prędkości
+speeding
+przekroczenie dozwolonej prędkości
+steering wheel
+kierownica
+traffic
+ruch uliczny
+traffic congestion
+duże natężenie ruchu ulicz, korki
+traffic jam
+korek
+traffic lights
+sygnalizacja świetlna
+tyre
+opona
+windscreen
+przednia szyba
+wiper
+wycieraczka(szyby samochodowej)
+zebra crossing
+przejście dla pieszych
+accommodation
+zakwaterowanie
+bed and breakfast
+nocleg ze śniadaniem
+campsite
+pole namiotowe, kemping
+caravan
+przyczepa kempingowa.
+trailer
+przyczepa kempingowa..
+en suite
+z łazienką
+guest house
+pensjonat
+hotel
+hotel
+including breakfast
+śniadanie wliczone w cenę
+reception
+recepcja 
+receptionist
+recepcjonista
+room
+pokój 
+double room 
+pokój dwuosobowy z podwójnym łóżkiem 
+single room 
+pokój jednoosobowy
+twin room/twin-bedded
+pokój z dwoma łóżkami 
+sleeping bag 
+śpiwór
+suite
+apartament
+tent 
+namiot 
+youth hostel 
+schronisko młodzieżowe
+be fully booked
+nie mieć wolnych miejsc 
+check in 
+zameldować się
+check into a hotel 
+zameldować się w hotelu 
+check out 
+wymeldować się 
+put up a tent 
+rozłożyć namiot 
+stay at 
+zatrzymać się 
+adventure
+przygoda
+coastal path 
+ścieżka wzdłuż wybrzeża
+hike 
+piesza wędrówka 
+holiday
+wakacje
+holiday destination
+miejsce, do którego jedziemy na wakacje 
+package holiday 
+wczasy zorganizowane 
+holiday resort 
+miejscowość wypoczynkowa
+holidaymaker 
+wczasowicz 
+scenery 
+krajobraz 
+souvenir
+pamiątka
+tacky souvenir 
+tandetna pamiątka 
+tourist
+turysta 
+tourist attractions
+atrakcje turystyczne 
+travel agency/travel agent
+biuro podróży 
+at the seaside
+nad morzem 
+camp in the mountains 
+obozować w górach  
+cut one's holiday 
+skrócić wakacje 
+go backpacking
+wędrować z plecakiem 
+go camping 
+pojechać pod namiot
+go for a ride
+pojechać na przejażdżkę
+go hiking 
+pójść na pieszą wędrówkę
+go on a cruise
+pojechać w rejs wycieczkowy 
+go on holiday 
+pojechać na wakacje 
+go sightseeing/see the sights
+zwiedzać 
+have a go at sth 
+spróbować czegoś 
+have fun 
+dobrze się bawić 
+lie on the beach 
+leżeć na plaży 
+make a trip/an excursion
+pojechać na wycieczkę 
+put sun cream on
+nałożyć balsam do opalania
+take a ride
+pojechać na przejażdżkę 
+take a walk 
+pójść na spacer 
+customs
+urząd celny, kontrola celna
+customs officer
+celnik
+exchange office
+kantor wymiany walut 
+foreign currency
+obca waluta
+immigration officer 
+przedstawiciel urzędu imigracyjnego 
+passport control 
+kontrola paszportowa
+valid passport 
+ważny paszport 
+invalid passport
+nieważny paszport
+visa 
+wiza
+cross the border 
+przekraczać granicę 
+travel abroad
+podróżować za granicę 
+travel across Europe 
+podróżować po Europie
+travel around the world 
+podróżować dookoła świata
+accident
+wypadek 
+casualty
+ofiara wypadku 
+crash
+wypadek
+plane crash
+wypadek lotniczy
+train crash
+wypadek kolejowy
+emergency
+nagły wypadek, sytuacja awaryjna
+emergency landing
+przymusowe lądowanie 
+emergency services
+służby ratownicze
+first aid 
+pierwsza pomoc 
+life jacket
+kamizelka ratunkowa
+narrow escape
+ucieczka w ostatniej chwili 
+rescue 
+ratunek 
+safety
+bezpieczeństwo
+shipwreck
+wrak statku
+rescue
+ratować
+sink
+zatonąć
+survive
+przeżyć
+be hit by car 
+zostać potrąconym przez samochód
+be seasik 
+mięć chorobę morską 
+bump into sth 
+wjechać w coś
+call an ambulance 
+wezwać karetkę
+crash into a tree
+rozbić się o drzewo
+have a crash/an accident
+mieć wypadek 
+have a flat tyre 
+złapać gumę 
+run sb/sth over
+przejechać kogoś/coś

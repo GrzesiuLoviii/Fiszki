@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.fiszki.MainActivity" >
+
+    <Button
+        android:id="@+id/button3"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Button1"
+        android:layout_below="@+id/Button1"
+        android:layout_marginTop="88dp"
+        android:background="#C70085"
+        android:onClick="GoToUstawenia"
+        android:text="Ustawienia"
+        android:minWidth="150dp"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button3"
+        android:layout_alignBottom="@+id/button3"
+        android:layout_marginLeft="27dp"
+        android:layout_toRightOf="@+id/button3"
+        android:background="#C70085"
+        android:onClick="usunBaze"
+        android:text="Wyczyść bazę"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_centerVertical="true"
+        android:background="#C70085"
+        android:height="70dp"
+        android:onClick="GoToPokolei"
+        android:text="PO KOLEI"
+        android:textColorHint="@android:color/white"
+        android:textColorLink="@android:color/white"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:layout_above="@+id/Button1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="59dp"
+        android:background="#C70085"
+        android:height="70dp"
+        android:onClick="GoToFiszki"
+        android:text="LOSOWANIE"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/holo_blue_dark"
+        android:textSize="30sp"
+        android:width="300dp" />
+
+</RelativeLayout>

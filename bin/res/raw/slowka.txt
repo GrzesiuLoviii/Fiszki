@@ -1,0 +1,6 @@
+read
+czytac
+write
+pisac
+hiho hoho
+hi
